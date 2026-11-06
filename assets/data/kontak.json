@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "nama": "Jaka Mahya",
+        "noHp": "08881231231232",
+        "alamat": "Bandung"
+    },
+    {
+        "id": 2,
+        "nama": "Sulaiman Akbar",
+        "noHp": "08882342345232",
+        "alamat": "Cimahi"
+    },
+    {
+        "id": 3,
+        "nama": "Irvan Gafikhan Setiawan",
+        "noHp": "05214345345633",
+        "alamat": "Bojong Koneng"
+    },
+    {
+        "id": 4,
+        "nama": "Valentino Indra",
+        "noHp": "099955758458937",
+        "alamat": "Sukarajin"
+    },
+    {
+        "id": 5,
+        "nama": "Yanti Rahmawati",
+        "noHp": "099885889389894",
+        "alamat": "Cimenyan"
+    }
+]
