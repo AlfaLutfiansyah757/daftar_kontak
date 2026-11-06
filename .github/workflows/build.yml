@@ -1,4 +1,3 @@
-
 name: Build Flutter APK
 
 on:
@@ -27,6 +26,9 @@ jobs:
         with:
           channel: stable
           cache: true
+
+      - name: Generate Android Configuration
+        run: flutter create --platforms=android --overwrite .
 
       - name: Get Dependencies
         run: flutter pub get
