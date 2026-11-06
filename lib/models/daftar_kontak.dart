@@ -16,7 +16,7 @@ class DaftarKontak {
             id: json['id'],
             nama: json['nama'],
             noHp: json['noHp'],
-            alamat: json['alamat',]
+            alamat: json['alamat'],
         );
     }
 }
