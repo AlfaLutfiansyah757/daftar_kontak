@@ -31,6 +31,7 @@ jobs:
         run: |
           rm -rf android
           flutter create --platforms=android .
+          rm -rf test
 
       - name: Get Dependencies
         run: flutter pub get
